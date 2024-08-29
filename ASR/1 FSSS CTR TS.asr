@@ -3,6 +3,12 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC boundary:FSIA-CTA:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:HCSM:
+ARTCC high boundary:HKNA:
+ARTCC high boundary:HTDC:
 Airports:FSAL:name
 Airports:FSAL:symbol
 Airports:FSAS:name
@@ -31,12 +37,6 @@ Airports:FSSF:name
 Airports:FSSF:symbol
 Airports:FSSR:name
 Airports:FSSR:symbol
-ARTCC boundary:FSIA-CTA:
-ARTCC high boundary:FIMM:
-ARTCC high boundary:FMMM:
-ARTCC high boundary:HCSM:
-ARTCC high boundary:HKNA:
-ARTCC high boundary:HTDC:
 Fixes:ALRAN:name
 Fixes:ALRAN:symbol
 Fixes:AMBAN:name
@@ -175,51 +175,6 @@ Geo:FS Restricted area Cousin Island:
 Geo:FS Restricted area Fregate Island:
 Geo:FSIA Groundlayout:
 Geo:GEO:
-High airways:B413:line
-High airways:G651:line
-High airways:M651:line
-High airways:N628:line
-High airways:R401:line
-High airways:R775:line
-High airways:UA401:line
-High airways:UA405:line
-High airways:UA474:line
-High airways:UA665:line
-High airways:UB403:line
-High airways:UB404:line
-High airways:UB535:line
-High airways:UB790:line
-High airways:UG424:line
-High airways:UG651:line
-High airways:UG657:line
-High airways:UG661:line
-High airways:UG667:line
-High airways:UL434:line
-High airways:UL437:line
-High airways:UM216:line
-High airways:UM311:line
-High airways:UM634:line
-High airways:UM651:line
-High airways:UM665:line
-High airways:UM997:line
-High airways:UN303:line
-High airways:UN764:line
-High airways:UP312:line
-High airways:UR212:line
-High airways:UR400:line
-High airways:UR401:line
-High airways:UR775:line
-High airways:UR780:line
-High airways:UT253:line
-High airways:UT382:line
-High airways:UT383:line
-High airways:UT384:line
-High airways:UT386:line
-High airways:UT702:line
-High airways:UT914:line
-High airways:UW735:line
-High airways:UW885:line
-High airways:W312:line
 Regions:FS Coast:polygon
 Regions:FSIA Groundlayout:polygon
 Regions:FSPP Groundlayout:polygon
