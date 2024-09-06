@@ -1,6 +1,6 @@
 # VATSSA Sector File Development for FSSS Seychelles
 
-[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-gvsc?include_prereleases)](https://github.com/vatssa/sectorfile-gvsc/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
+[![latest-version](https://img.shields.io/github/v/release/VATSIM-SSA/sectorfile-fsss?include_prereleases)](https://github.com/vatssa/sectorfile-fsss/releases) [![topsky-version](https://img.shields.io/badge/TopSky-2.4.1-blue.svg)](https://forum.vatsim-scandinavia.org/t/topsky)
 [![gr-version](https://img.shields.io/badge/Ground%20Radar-1.5-blue.svg)](https://forum.vatsim-scandinavia.org/t/ground-radar)
 
 ## Introduction
