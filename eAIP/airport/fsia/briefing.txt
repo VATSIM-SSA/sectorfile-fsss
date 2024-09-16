@@ -1,0 +1,52 @@
+===== FSIA Pilot Briefing =====
+
+//Pilots taking part in events that depart from or arrive to FSIA should make themselves familiar with this briefing page as well as with all existing charts.//
+
+==== Overview ====
+
+  * The Seychelles Intl Airport is Seychelles's primary international airport, with limited capacity of traffic movements due to the limited number of parking positions available.
+  * The primary landing runway is runway 31 with runway 13 serving as the primary departure runway.
+  * Be aware that the Seychelles FIR and airspace are procedural. Position Reporting may be requested at certain waypoints and we expect pilots to be able to provide time estimates overhead certain waypoints and to be able to maintain Mach speeds.
+
+==== Departure Briefing ====
+
+=== Clearance Delivery ===
+
+  * FSIA does not have a real world Delivery position with Tower (Ground - FSIA_GND) operating for this purpose. If offline, contact Tower for Delivery Clearance.
+
+  * When requesting IFR clearance, please provide your Aircraft Type, Stand Number and ATIS letter.
+
+=== Clearance Delivery ===
+
+  * Ground does not provide for Ground movement control and will transfer aircraft to Tower for push and start clearance once the aircraft has been released (particularly when Release Management operations are in effect during events).
+
+=== Departure Procedures ===
+
+  * Although FSIA has SIDs for both runway 13 and runway 31, expect departures from runway 13 if the winds allow for it (usually, less than 10 knots of tail wind). This allows for a shorter taxi time and a higher departure sequence.
+
+
+==== Arrival Briefing ====
+
+=== Arrivals and Approaches ===
+
+  * As your flight is approaching FSIA, you should make yourself familiar with the existing Arrivals (STARs), Holding Points and Approaches.
+
+  * During high traffic events, priority will be given for arrivals into runway 31 to avoid the backtracking of runway 13.
+
+  * Be aware that there is high terrain to the West of the airfield.
+
+  * Be aware that FSIA only has 1 ILS approach for runway 31. Controllers will inform you what Approach to expect based on an assigned Arrival.
+
+  * FSIA is a single runway airport, so during Arrival Events, you should expect to Hold. The default arrival Hold will be at PRA. 
+
+  * If Holding at PRA and if runway 31 is active, expect an ILS Zulu Approach Clearance to runway 31 via PETER. If runway 13 is active, expect the RNP X Clearance to runway 13 via MALON.
+
+  * In case of Missed Approach, turn RIGHT (runway 31) or LEFT (runway 13) and climb 4500 ft and maintain runway heading. You'll receive further instructions by the Controllers.
+
+  * During busy events, expect to vacate left on B if landing runway 31. If landing runway 13, backtracking will be required with a turnway available at the end. Tower will instruct you to taxi to your stand.
+
+=== Parking and Ground Operations ===
+
+  * FSIA has very limited parking positions. Initial aircraft may be offered the Main Apron whilst subsequent aircraft will be directed to adjacent Apron. During events, we expect pilots to disconnect after a short time to allow the release of the parking positions.
+
+{{page>fs-footer#FSIA}}

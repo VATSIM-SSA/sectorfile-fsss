@@ -1,0 +1,9 @@
+===== FSSS Seychelles Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#FSSS}}
+
+
+{{page>fs-footer#FSSS}}

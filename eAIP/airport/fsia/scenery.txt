@@ -1,0 +1,12 @@
+===== FSIA Scenery =====
+
+^ Platform  ^ Type      ^ Developer         ^ Link ^ Remarks ^
+| FSX       | Freeware  | Alpha India Group | [[https://flyawaysimulation.com/downloads/files/11188/fsia-seychelles-international-airport/|Scenery]] | - |
+| FSX       | Payware   | FSDG              | [[https://fsdg-online.com/Sceneries/FSX-P3D/Full-Sceneries/Seychelles::8.html?language=en|Scenery]] | - |
+| MSFS      | Freeware  | McBolid           | [[https://flightsim.to/file/895/seychelles-airports|Scenery]] | - |
+| MSFS      | Payware   | Caelus Aerial     | [[https://secure.simmarket.com/caelus-aerial-seychelles-intl-airport-(fsia)-mahe-island-victoria_msfs.phtml|Scenery]] | - |
+| MSFS      | Payware   | FSDG              | [[https://www.justflight.com/product/fsdg-seychelles-msfs|Scenery]] | - |
+| XP11/XP12 | Payware   | Aerosoft          | [[https://secure.simmarket.com/aerosoft-seychelles-xp-1112.phtml|Scenery]] | - |
+
+
+{{page>fs-footer#FSIA}}

@@ -1,0 +1,41 @@
+===== FSIA Ground =====
+
+  * It is important to note that the role of Ground is fullfiled by Tower at [[airport:fsia:home|FSIA]], although at VATSIM, a S1 rated controller may take the FSIA_GND position.
+  * The role of Ground at [[airport:fsia:home|FSIA]] is mostly to process the Delivery function.
+
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Pushback Approved}}
+
+=== Directions ===
+
+^ Apron      ^ Type ^ Facing ^ Remarks ^
+| Main Apron | RWY 13  | NW | //to exit via A// |
+| Main Apron | RWY 31  | SE | //to exit via B// |
+| Light Acft | All  | NE | - |
+| Parking    | All  | SE |
+
+
+==== Taxi Out Procedures ====
+
+  * When runway 13 is active, departing traffic shall be instructed to taxi to the runway via A and hold short RWY 13.
+
+  * When runway 31 is active, departing traffic shall be instructed to taxi to the runway via B and hold short RWY 31.
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to HP}}
+
+
+==== Taxi In Procedures ====
+
+  * Tower Controllers are responsible for arrival traffic Ground Movements. 
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Taxi to Stand}}
+
+{{page>fs-footer#FSIA}}

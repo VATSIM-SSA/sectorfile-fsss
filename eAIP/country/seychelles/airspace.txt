@@ -1,0 +1,6 @@
+===== Seychelles Airspace =====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FSSS  | Seychelles | [[airspace:fsss:home|FSSS]] | -       | - |
+
+{{page>fs-footer#Seychelles}}

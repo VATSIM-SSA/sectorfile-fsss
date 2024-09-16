@@ -1,0 +1,64 @@
+===== FSIA Approach =====
+
+  * Be advised that FSIA operates as a Procedural Approach.
+
+==== Arrivals Procedures ====
+
+^ Rwy   ^ Fix   ^ Arrival ^ Type    ^ Track Miles   ^ Approach ^ Remarks ^
+| 13    | IMPOX | IMPOX1R | RNP     | 21 nm         | RNP X via MALON or LIZZY | - |
+| :::   | ROUTY | ROUTY1D | :::     | 15 nm         | ::: | - |
+| :::   | UNBED | UNBED1D | :::     | 13 nm         | RNP X via MALON | - |
+| :::   | UTALI | UTALI1D | :::     | 21 nm         | ::: | - |
+| 31    | NESID | NESID1E | :::     | 15 nm         | ILS Z or RNP Y via DAVID | - |
+| :::   | NEVIN | NEVIN1E | :::     | 39 nm         | ILZ Z via PETER | - |
+| :::   | OKLIM | OKLIM1E | :::     | 31 nm         | ILS Z or RNP Y via DAVID | - |
+| :::   | TILOM | TILOM1E | :::     | 22 nm         | ILZ Z via SAMES | - |
+| :::   | UTALI | UTALI1E | :::     | 27 nm         | ILZ Z via PETER | - |
+
+==== Approach Procedures ====
+
+  * Aircraft being positioned for final approach will be given a heading close to the localizer at a range of at least 8 NM from the runway threshold and at a level below the glide path.
+  * The pilot will be told to complete the turn and to report established on ILS, but at this point if he requests, ATC will give another vector to bring the aircraft on to the localizer.
+  * In order to maintain the correct spacing between aircraft, ATC may deliberately vector the aircraft through the localizer for approach from the other side. Pilots will be warned when this manoeuvre is being given.
+
+^ Rwy   ^ Approach  ^ Frequency ^ Course    ^ GP Angle  ^ IAF ^ Platform ^ Remarks ^
+| 13    | RNP X     | -         | 150º      | 2.81º     | LIZZY, FOCKY, MALON, NATLY | 2500 ft | - | 
+| :::   | RNP (AR)  | -         | 130º      | 3.00º     | LIZZY, MALON | 2200 ft | Fully configured at FREDY |
+| 31    | ILS Z     | 110.30 SIA | 310º | 3.00º | DAVID, SAMES, PETER | 2000 ft | - |
+| :::   | RNP Y     | -          | 324º | 3.00º | DAVID, GILLY, JERAD, LUWIE | 2500 ft | - |
+| :::   | RNP (AR)  | -          | 310º | 3.00º | DAVID, SAMES, PETER | 2000 ft | - |
+
+==== Holds ====
+
+^ Name  ^ STAR  ^ Altitude  ^ Speed (IAS)   ^ Inbound CRS   ^ Turn  ^ Leg Time  ^ Remarks ^
+| TETIX | -     | 4500 ft   | 230 KT        | 250º          | Left  | 1 min     | RNP X Rwy 13 |
+| PRA   | -     | 4200 ft - FL145 | 220 KT  | 222º          | Right | 1 min     | - |
+| PRA   | -     | FL150+    | 240 KT        | 222º          | Right | 1 min     | - |
+
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach  ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 13    | RNP X     | Immediately turn LEFT (MAX 150 KT) direct to TETIX. Climb 4500 ft and joing holding as published | TETIX | - |
+| :::   | RNP AR    | Immediately turn LEFT direct to HERMY (MAX 185 KT) then turn LEFT direct to TETIX. Climb 4500 ft and joing holding as published | TETIX | - |
+| 31    | ILS Z     | Immediately turn RIGHT (MAX 185 KT) direct to TETIX. Climb 4500 ft and joing holding as published | TETIX | - |
+| :::   | RNP Y     | Immediately turn RIGHT direct to TETIX. Climb 4500 ft and joing holding as published | TETIX | - |
+| :::   | RNP AR    | Immediately turn RIGHT direct to PATTY (MAX 185 KT) at or above 1200 ft then turn RIGHT direct to TETIX. Climb 4500 ft and joing holding as published | TETIX | - |
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance  ^ Max Distance  ^ Radial From   ^ Radial To ^ MSA       ^ Remarks ^
+| FSIA ARP  | 0 nm          | 25 nm         | 0º            | 0º        | 4500 ft   | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| [[HKMO]] | Moi Intl (Mombasa, Kenya) | 967 nm | 3350 m | - |
+| [[FIMP]] | Si Seewoosagur Ramgoolam Intl (Mauritius) | 1025 nm | 3370 m | - |
+| [[HTDA]] | Julius Nyerere Intl (Dar-es-Salaam, Tanzania) | 1045 nm | 3000 m | - |
+| [[HKJK]] | Jomo Kenyatta (Nairobi, Kenya) | 1146 nm | 4117 m | - |
+
+
+
+{{page>fs-footer#FSIA}}
