@@ -21,7 +21,7 @@
 ==== SLOP ====
 
   * Offsets may be applied beyond 200NM radius from the PRA DME and above FL290 in the oceanic airspace of the Seychelles FIR.
-  * Pilots are advised to coordinate offset on UNICOM (122.800).
+  * Pilots are advised to coordinate offset on Advisory Frequency (122.800).
 
 
 {{page>fs-footer#FSSS}}
