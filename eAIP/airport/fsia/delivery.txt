@@ -8,7 +8,7 @@
 
   * VFR flights are not allowed over and above the FL145.
 
-{{page>icao-cruiselevels#RVSM Feet}}
+{{page>icao:cruise-levels#RVSM Feet}}
 
 ==== Departure Procedures & Initial Climbs ====
 
@@ -32,7 +32,7 @@
 
 === Phraseology ===
 
-{{page>phraseology-icao#Delivery Clearance}}
+{{page>phraseology:icao#Delivery Clearance}}
 
 
 
