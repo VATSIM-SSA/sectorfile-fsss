@@ -1,6 +1,8 @@
 {
-	"Name": "FSSS Seychelles FIR v2",
-	"Composites": [
+	"Name": "FSSS Seychelles FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fsss/refs/heads/main/vATIS/FSSS.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Seychelles Intl",
 			"Identifier": "FSIA",
